@@ -1,20 +1,12 @@
-#
-###################################
 # Site wide configuration
-####################################
-#
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+title:            Rakibul's Blog
+email:            rytotul@yahoo.com
+description:      Trash Bin of ny Lazy Brain
+url:              https://blog.rakibul.me
+keywords:         ["blog", "rakibul", "yeasin"]
 
-#
-###################################
 # Jekyll configuration
-####################################
-#
-timezone:          Europe/Paris
+timezone:          Asia/Dhaka
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -27,20 +19,16 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-#
-###################################
 # Site Owner configuration
-####################################
-#
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name:               Rakibul Yeasin
+  avatar:             leonids-logo.png
+  job:                "CS Student, Developer"
+  bio:                "Trash Bin of ny Lazy Brain."
   email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  disqus-shortname: Rakibul
+  twitter: rytotul
+  facebook: yeasin03
   google:
     plus: #username
     analytics:
@@ -48,9 +36,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  github: rytotul
+  gitlab: rytotul
+  stackoverflow: 7277428/totul
   linkedin: #username
   skype: #username
   xing: #username
@@ -68,4 +56,4 @@ owner:
   500px: #username
   codepen: #username
   reddit: #username
-  telegram: #username
+  telegram: rytotul
