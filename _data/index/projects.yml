@@ -1,4 +1,4 @@
-- name: leonids
+- name: SMS App
   descr: "Forgot..."
   image: pong.png
-  github: https://github.com/rytotul
+  github: https://github.com/rytotul/sms-tsh
