@@ -4,6 +4,7 @@ email:            rytotul@yahoo.com
 description:      Trash Bin of my Lazy Brain
 url:              https://blog.rakibul.me
 keywords:         ["blog", "rakibul", "yeasin"]
+categories:       ["automation", "scripts"]
 
 # Jekyll configuration
 timezone:          Asia/Dhaka
